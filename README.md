@@ -7,7 +7,7 @@ class Yousef
 {
 public:
 
-    string role = "Junior Software Developer";
+    string role = "Junior Backend Developer";
 
     string mindset =
         "Understand deeply. Build consistently. Improve continuously.";
